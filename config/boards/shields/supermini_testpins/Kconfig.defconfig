@@ -1,0 +1,13 @@
+# Copyright (c) 2022 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+#
+# Remember: for BT keyboards, the length of ZMK_KEYBOARD_NAME has to be under 16 characters.
+
+if SHIELD_SUPERMINI_TESTPINS
+
+config ZMK_KEYBOARD_NAME
+    default "superMINItest1"
+
+endif
+
+

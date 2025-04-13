@@ -1,0 +1,8 @@
+file_format: "1"
+id: supermini_testpins
+name: supermini_testpins
+type: shield
+url: https://github.com/bsag/
+requires: 
+features:
+  - keys

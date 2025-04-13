@@ -21,4 +21,5 @@ include:
     shield: xiao_ble_testpins
   - board: seeeduino_xiao_ble
     shield: settings_reset
-
+  - board: arduino_nano_33_ble
+    shield: supermini_testpins
