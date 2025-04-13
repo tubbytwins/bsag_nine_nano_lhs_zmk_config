@@ -1,0 +1,7 @@
+# Copyright (c) 2022 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+config SHIELD_XIAO_BLE_TESTPINS
+    def_bool $(shields_list_contains,xiao_ble_testpins)
+
+

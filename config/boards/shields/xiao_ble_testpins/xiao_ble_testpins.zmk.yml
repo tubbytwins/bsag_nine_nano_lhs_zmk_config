@@ -1,0 +1,8 @@
+file_format: "1"
+id: xiao_ble_testpins
+name: xiao_ble_testpins
+type: shield
+url: https://github.com/bsag/
+requires: [pro_micro]
+features:
+  - keys
